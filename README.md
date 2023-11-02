@@ -1,3 +1,5 @@
+### :warning::warning: This is a mirror of [tidwall/hashmap.c](https://github.com/tidwall/hashmap.c) :warning::warning:
+
 # hashmap.c
 
 [Hash map](https://en.wikipedia.org/wiki/Hash_table) implementation in C. 
